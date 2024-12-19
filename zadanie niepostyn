@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Moja strona</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Cześć! Jestem Michał!</h1>
+    <p>Jestem wspaniały</p>
+    <ul>
+        <li>Zainteresowania: programowanie, muzyka, podróże</li>
+        <li>Doświadczenie: ...</li>
+    </ul>
+</body>
+</html>
